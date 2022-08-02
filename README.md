@@ -13,7 +13,7 @@ In addition, the purpose of my data analysis was to answer the following importa
 • Do densely populated countries tend to have lower life expectancy?
 
 ## Libraries
-• Numpy<br/>
+• NumPy<br/>
 • Pandas<br/>
 • Matplotlib<br/>
 • Seaborn<br/>
